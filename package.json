@@ -1,6 +1,6 @@
 {
   "name": "kalkulatorz",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ini adalah sebuah kalkulator sederhana, akan diupdate untuk kedepannya.",
   "main": "index.js",
   "scripts": {
